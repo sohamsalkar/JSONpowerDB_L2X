@@ -3,17 +3,22 @@
 ## A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Students Database Management System**.
 
 ### About JsonPowerDB:
-[Documentation Link](http://login2explore.com/jpdb/docs.html)
-* JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+* JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
+* JPDB supports and advocates for true serverless and pluggable API development.
+* Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
+---
+You can read the documentation by clicking [here.](http://login2explore.com/jpdb/docs.html)
 
 
 ### Benefits of using JsonPowerDB
-- Simplest way to retrieve data in a JSON format.
-- Schema-free, Simple to use, Nimble and In-Memory database.
-- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+- Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
+- Server side Native NoSQL - best query performance.
 - It is low level (raw) form of data and is also human readable.
+- Simplest way to retrieve data in a JSON format.
+- Web-services API - Can be used with any programming language that has support for HTTP.
+- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It helps developers in faster coding, in-turn reduces development cost.
-
+---
 
 ### Release History
 #### v0.0.0 (27/02/2021)
@@ -71,6 +76,6 @@ In this project, you can do the following:
 * To come back on index page
   * click <- arrow on Browser
 
-## Scope of functionalities
+### Scope of functionalities
 * It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
 * Can be further improved by addidng additional fields and can be made into a working DB manager.
